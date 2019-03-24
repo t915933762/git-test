@@ -9,4 +9,8 @@ public class FirstClass {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+
+    public void test() {
+        int a = 0;
+    }
 }
